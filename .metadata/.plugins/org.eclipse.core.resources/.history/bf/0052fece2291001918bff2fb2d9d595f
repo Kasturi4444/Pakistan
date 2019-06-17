@@ -7,9 +7,6 @@ System.out.println("happy");
 System.out.println("happy and sad");
 System.out.println("dude");
 System.out.println("happy mad");
-
-System.out.println("India");
-System.out.println("pak");
 	}
 
 }
